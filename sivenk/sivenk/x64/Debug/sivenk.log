@@ -1,0 +1,15 @@
+﻿  Base.cpp
+C:\Users\vokos\source\repos\sivenk\Base.cpp(503,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vokos\source\repos\sivenk\Base.cpp(539,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vokos\source\repos\sivenk\Base.cpp(573,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vokos\source\repos\sivenk\Base.cpp(607,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vokos\source\repos\sivenk\Base.cpp(617,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  cgm.cpp
+C:\Users\vokos\source\repos\sivenk\cgm.cpp(80,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Generate.cpp
+  Matrix.cpp
+  Source.cpp
+  Создание кода...
+C:\Users\vokos\source\repos\sivenk\Base.cpp(74,1): warning C4715: FEM::true_func: значение возвращается не при всех путях выполнения
+C:\Users\vokos\source\repos\sivenk\Base.cpp(54,1): warning C4715: FEM::func_S1: значение возвращается не при всех путях выполнения
+  sivenk.vcxproj -> C:\Users\vokos\source\repos\sivenk\x64\Debug\sivenk.exe
